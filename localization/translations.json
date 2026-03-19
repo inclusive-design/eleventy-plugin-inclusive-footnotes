@@ -1,0 +1,12 @@
+{
+  "en": {
+    "footnote_ref": "Footnote %{id}",
+		"footnotes": "Footnotes",
+		"backlink": "Back to reference %{ref} for footnote %{footnote}"
+	},
+	"fr": {
+		"footnote_ref": "Note de bas de page %{id}",
+		"footnotes": "Notes de bas de page",
+		"backlink": "Retourner à la référence %{ref} pour la note de bas de page %{footnote}"
+	}
+}

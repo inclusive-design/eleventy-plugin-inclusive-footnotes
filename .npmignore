@@ -1,0 +1,16 @@
+.github
+.husky
+_site
+fixtures
+test
+.editorconfig
+.gitignore
+.markdownlint-cli.mjs
+.npmignore
+.release-please-manifest.json
+commitlintrc.config.js
+eslint.config.js
+eleventy.config.js
+package-lock.json
+release-please-config.json
+renovate.json
