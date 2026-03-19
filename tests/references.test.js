@@ -9,3 +9,8 @@ beforeEach(async () => {
 	});
 	await elev.write();
 });
+
+test('References have appropriate role', async () => {
+	const indexPage = fs.readFileSync('_site/index.html', 'utf8');
+	assert.ok(indexPage.includes('<a href="#fn1" role="doc-noteref"'));
+});
