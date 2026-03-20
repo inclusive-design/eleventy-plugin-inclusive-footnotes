@@ -8,7 +8,7 @@ authoring provided by Markdown footnotes. This plugin adds the following feature
 - The footnote container has a [localized](#localization) heading which is semantically linked to the container with `aria-labelledby`.
 - The footnote container heading's heading level can be [customized](#customization).
 - Footnotes have the `doc-endnote` role.
-- Backlinks to footnote references have the `doc-backlink` role a [localized](#localization) `aria-label`.
+- Backlinks to footnote references have the `doc-backlink` role and a [localized](#localization) `aria-label`.
 
 ## Usage
 
