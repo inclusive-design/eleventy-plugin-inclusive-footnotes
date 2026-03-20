@@ -97,8 +97,8 @@ export default function (eleventyConfig) {
   	translations: {
       en: {
      		footnote_ref: "Endnote %{id}",
-				footnotes: "Endnotes",
-				backlink: "Back to reference %{ref} for endnote %{footnote}"
+     		footnotes: "Endnotes",
+     		backlink: "Back to reference %{ref} for endnote %{footnote}"
       },
       de: {
         footnote_ref: "Endnote %{id}",
