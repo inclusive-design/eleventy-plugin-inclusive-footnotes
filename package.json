@@ -34,8 +34,8 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
-    "@commitlint/cli": "^20.5.0",
-    "@commitlint/config-conventional": "^20.5.0",
+    "@commitlint/cli": "^21.0.0",
+    "@commitlint/config-conventional": "^21.0.0",
     "@inclusive-design/eslint-config": "^0.3.0",
     "@inclusive-design/markdownlint-config": "^0.1.0",
     "eslint": "^10.0.3",
